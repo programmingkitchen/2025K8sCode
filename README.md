@@ -2,6 +2,7 @@
 
 - Git test
 
+# This seems to display (main) even when not in a git repo
 curl -o ~/.git-prompt.sh https://raw.githubusercontent.com/git/git/master/contrib/completion/git-prompt.sh
 
 
