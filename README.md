@@ -13,3 +13,5 @@ export PS1='\u@\h:\w$(__git_ps1 " (%s)")\$ '
 source ~/.bashrc
 
 # Added some stuff
+
+- test
