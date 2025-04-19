@@ -1,6 +1,0 @@
-metadata:
-  name: nginx
-  labels:
-    app: web_service
-    importance: critical
-    customer: internal_use
