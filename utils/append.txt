@@ -1,4 +1,5 @@
 
+- Append this to .bashrc for Git Prompt
 
 source ~/.git-prompt.sh
 export GIT_PS1_SHOWDIRTYSTATE=1
