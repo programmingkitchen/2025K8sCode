@@ -4,9 +4,17 @@
 
 # This Repo
 
+- Clone
+
+```
+git clone git@github.com:programmingkitchen/2025K8sCode.git
+```
+
 - Git config settings before commit. 
 
 ```
+~/.gitconfig
+
 git config --global user.name "Randall Alta3" 
 git config --global user.email "rgranier@gmail.com"
 
