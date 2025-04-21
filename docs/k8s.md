@@ -34,7 +34,7 @@
 ```kubectl logs <pod>```
 
 ### Execute a command inside a pod
-```kubectl exec -it <pod>```
+```kubectl exec -it <pod> -- bash```
 
 ### Delete a pod
 ``` kubectl delete pod <pod>```
